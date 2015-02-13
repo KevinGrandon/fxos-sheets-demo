@@ -5,8 +5,6 @@ window.addEventListener('click', e => {
 	}
 
 	if (e.target.dataset && e.target.dataset.click === 'suicide') {
-		setTimeout(() => {
-			window.close();
-		}, 500);
+		window.close();
 	}
 });
