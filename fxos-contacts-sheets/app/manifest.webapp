@@ -1,0 +1,14 @@
+{
+	"name": "Contacts Test ",
+	"description": "FxOS Contacts Test",
+	"type": "certified",
+	"launch_path": "/page1.html",
+	"developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/fxos/"
+	},
+	"permissions": {},
+	"icons": {
+		"128": "/icons/icon_128.png"
+	}
+}

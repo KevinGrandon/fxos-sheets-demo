@@ -1,0 +1,12 @@
+html,
+body {
+  font-size: 50px;
+}
+
+body.details {
+	background: #00ff00;
+}
+
+body.list {
+	background: #ff0000;
+}
